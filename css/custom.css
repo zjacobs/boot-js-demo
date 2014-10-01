@@ -1,0 +1,11 @@
+/*Use this for custom stuff*/
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+color: red;
+}
+
+
+.testImg {
+	background: url(http://placehold.it/3000x1000) 0 0 no-repeat;
+	height: 1000px;
+}
