@@ -10,6 +10,10 @@ color: #006600;
 	height: 1000px;
 }
 
+#Home1, #Home2, #Home3 {
+	font-style:italic;
+}
+
 #Historical1, #Historical4, #Footer2 {
 	text-align:center;
 }
