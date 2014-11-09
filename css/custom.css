@@ -10,9 +10,15 @@ color: #006600;
 	height: 1000px;
 }
 
-#Historical1, #Historical2, #Historical3, #Historical4, #Historical5 {
+#Historical1, #Historical4 {
 	text-align:center;
 }
+#Historical2, #Historical3, #Historical5 {
+	text-align:center;
+	display:block;
+	margin:0 auto;
+}
+
 
 #Research1, #Research2, #Research3, #Research4, #Research5, #Research6 {
 	text-align:center;
