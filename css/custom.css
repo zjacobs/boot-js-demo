@@ -14,4 +14,10 @@ color: #006600;
 	text-align:center;
 }
 
-
+#Research1, #Research2, #Research3, #Research4, #Research5, #Research6 {
+	text-align:center;
+}
+#Research1, #Research3, #Research5 {
+	font-style:italic;
+	font-style:bold;
+}
