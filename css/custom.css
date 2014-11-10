@@ -24,8 +24,11 @@ color: #006600;
 }
 
 
-#Research1, #Research2, #Research3, #Research4, #Research5, #Research6, #Footer1 {
+#Research1, #Research3, #Research5, #Research6, #Footer1 {
 	text-align:center;
+}
+#Research2, #Research4 {
+	text-align:justify;
 }
 #Research1, #Research3, #Research5 {
 	font-style:italic;
