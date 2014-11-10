@@ -31,3 +31,12 @@ color: #006600;
 	font-style:italic;
 	font-style:bold;
 }
+
+#Bio2 {
+	text-align:justify;
+}
+#Bio1 {
+	text-align:center;
+	display:block;
+	margin:0 auto;
+}
