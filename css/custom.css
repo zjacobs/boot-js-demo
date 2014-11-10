@@ -33,12 +33,13 @@ color: #006600;
 }
 
 #Bio2 {
-	text-align:justify;
+	text-align:center;
 }
 #Bio1 {
 	text-align:center;
 	display:block;
 	margin:0 auto;
+	color:#006600;
 }
 #Footer3 {
 	text-align:center;
